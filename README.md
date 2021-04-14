@@ -1,8 +1,5 @@
 # Clase #1
 Introduccion a el desarrollo fullstack con stack MERN.
-
-* Aplicacion basica de express.
-* Creacion de archivos necesarios para trabajar en github y heroku (.gitignore, Procfile
 ____
 #### Instruacciones
 ```
