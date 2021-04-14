@@ -15,6 +15,7 @@ $ npm run dev
 ```
 ### Dependencias
 Necesarias:
-* Express
+  * Express
+
 Para desarrollo:
-* Nodemon
+  * Nodemon
