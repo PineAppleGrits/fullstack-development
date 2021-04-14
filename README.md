@@ -1,7 +1,7 @@
 # Clase #1
 Introduccion a el desarrollo fullstack con stack MERN.
 ____
-#### Instruacciones
+#### Instrucciones
 ```
 $ git clone -b clase-1 https://github.com/PineAppleGrits/fullstack-development.git 
 $ cd fullstack-development
